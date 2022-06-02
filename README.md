@@ -8,7 +8,7 @@ ULACIT
 
 2022
 
- @@ Clase #2 - Procesos @@
+ ## Clase #2 - Procesos 
 
 ###### Podemos correr los siguientes comandos en caso de que necesitemos ver los **PROCESOS** en linux desde el **CLI**
 
