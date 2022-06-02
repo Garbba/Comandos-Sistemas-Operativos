@@ -1,2 +1,9 @@
 # Comandos-Sistemas-Operativos
-Comandos Generales del curso Sistema Operativos
+
+Jeremy Garcia Baltodano
+
+Universidad Latinoamericana de Ciencia y Tecnología
+
+ULACIT
+
+2022
