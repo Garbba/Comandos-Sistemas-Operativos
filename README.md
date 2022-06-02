@@ -12,7 +12,7 @@ ULACIT
 
 ###### Podemos correr los siguientes comandos en caso de que necesitemos ver los **PROCESOS** en linux desde el **CLI**
 
-1. **Ps** --> Estático.
+1. **Ps** ⮕ Estático.
 2. **ps -aux** ⮕ Procesos de mi usuario.
 3. **ps -e** ⮕ Procesos de mi sistema operativo.
 4. **htop** ⮕ Dinámico, va cambiando, mejor interfaz gráfica.
