@@ -1,6 +1,6 @@
 # Comandos Sistemas Operativos
 
-Jeremy Garcia Baltodano
+Jeremy García Baltodano
 
 Universidad Latinoamericana de Ciencia y Tecnología
 
