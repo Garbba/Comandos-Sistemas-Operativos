@@ -10,7 +10,7 @@ ULACIT
 
  ## Clase #2 - Procesos 
 
-###### Podemos correr los siguientes comandos en caso de que necesitemos ver los **PROCESOS** en linux desde el **CLI**
+###### Podemos correr los siguientes comandos en caso de que necesitemos ver los **PROCESOS** en linux desde el **CLI.**
 
 1. **ps** ⮕ Estático.
 2. **ps -aux** ⮕ Procesos de mi usuario.
